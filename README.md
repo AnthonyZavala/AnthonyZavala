@@ -1,6 +1,6 @@
 # Hello there, I’m Anthony 👋
 
-I'm a software engineer at GitHub on the Actions Platform team.
+I'm a software engineer at GitHub on the Actions team.
 
 Before GitHub, I worked for Imperfect Foods and Home Depot focusing on event-driven architecture, stream processing, and using functional programming. I would definitely call myself a hobby collector, usually gravitating toward making things. Woodworking is my go to, but I’ve also mixed in using stone, plastic, and metal. Trying my hand at welding and getting a 3D printer over the past couple of years. The rest of my free time is spent on video games, movies/series, brewing beer, cooking, or gardening.
 
